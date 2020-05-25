@@ -1,4 +1,4 @@
-class AbstractWartechnic():
+class AbstractWartechnic:
 
     def __init__(self, engine_volume: int, fuel_consumption: float, max_speed: float, passengers_capacity: int,
                  fire_range: int):
